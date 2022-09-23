@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="virtualbuttons.png">
+<SubTexture name="a0000" x="0" y="0" width="126" height="124" frameX="-3" frameY="-2" frameWidth="132" frameHeight="135" />
+<SubTexture name="aPressed0000" x="126" y="0" width="126" height="123" frameX="-3" frameY="-3" frameWidth="132" frameHeight="135" />
+<SubTexture name="aPressed0001" x="0" y="124" width="126" height="115" frameX="-3" frameY="-11" frameWidth="132" frameHeight="135" />
+</TextureAtlas>
