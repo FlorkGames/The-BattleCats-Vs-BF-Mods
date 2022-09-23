@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="waulterCat.png">
+<SubTexture name="Idle0000" x="0" y="0" width="46" height="50" frameX="0" frameY="-2" frameWidth="46" frameHeight="52" />
+<SubTexture name="Walk0000" x="46" y="0" width="46" height="49" frameX="0" frameY="-3" frameWidth="46" frameHeight="52" />
+<SubTexture name="Walk0001" x="0" y="0" width="46" height="50" frameX="0" frameY="-2" frameWidth="46" frameHeight="52" />
+<SubTexture name="Walk0002" x="92" y="0" width="46" height="49" frameX="0" frameY="-3" frameWidth="46" frameHeight="52" />
+<SubTexture name="Walk0003" x="0" y="0" width="46" height="50" frameX="0" frameY="-2" frameWidth="46" frameHeight="52" />
+</TextureAtlas>

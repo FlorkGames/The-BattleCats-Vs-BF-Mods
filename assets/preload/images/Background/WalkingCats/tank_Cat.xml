@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tank_Cat.png">
+<SubTexture name="Walk0000" x="98" y="0" width="49" height="85" frameX="-1" frameY="-4" frameWidth="50" frameHeight="91" />
+<SubTexture name="Walk0001" x="0" y="0" width="49" height="87" frameX="-1" frameY="-2" frameWidth="50" frameHeight="91" />
+<SubTexture name="Walk0002" x="98" y="0" width="49" height="85" frameX="-1" frameY="-4" frameWidth="50" frameHeight="91" />
+<SubTexture name="Walk0003" x="49" y="0" width="49" height="87" frameX="-1" frameY="-2" frameWidth="50" frameHeight="91" />
+</TextureAtlas>
