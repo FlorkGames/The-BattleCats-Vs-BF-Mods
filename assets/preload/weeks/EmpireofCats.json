@@ -1,0 +1,41 @@
+{
+	"storyName": "Empire of Cats",
+	"difficulties": "Cats",
+	"hideFreeplay": false,
+	"weekBackground": "EmpireBG",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Invading Japan",
+			"dogebase",
+			[
+				40,
+				140,
+				20
+			]
+		],
+		[
+			"Slow battle",
+			"FunnyCat",
+			[
+				0,
+				120,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "EmpireCats"
+}
