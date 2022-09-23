@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="back_button.png">
+<SubTexture name="Idle0000" x="0" y="0" width="86" height="87" frameX="-2" frameY="-4" frameWidth="96" frameHeight="92" />
+<SubTexture name="Anim0000" x="86" y="0" width="86" height="87" frameX="-2" frameY="-4" frameWidth="96" frameHeight="92" />
+<SubTexture name="Anim0001" x="172" y="0" width="86" height="87" frameX="-2" frameY="-4" frameWidth="96" frameHeight="92" />
+</TextureAtlas>

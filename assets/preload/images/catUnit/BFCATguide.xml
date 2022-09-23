@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFCATguide.png">
+<SubTexture name="Idle0000" x="408" y="816" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0001" x="408" y="816" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0002" x="0" y="816" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0003" x="0" y="816" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0004" x="1198" y="0" width="405" height="398" frameX="-3" frameY="-14" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0005" x="1198" y="0" width="405" height="398" frameX="-3" frameY="-14" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0006" x="408" y="0" width="410" height="411" frameX="-1" frameY="-1" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0007" x="408" y="0" width="410" height="411" frameX="-1" frameY="-1" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0008" x="0" y="0" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0009" x="0" y="0" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0010" x="0" y="0" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0011" x="0" y="0" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0012" x="0" y="0" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412" />
+<SubTexture name="Idle0013" x="0" y="0" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412" />
+<SubTexture name="WOW0000" x="0" y="412" width="374" height="404" frameX="-3" frameY="0" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0001" x="374" y="412" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0002" x="818" y="0" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0003" x="818" y="403" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0004" x="374" y="412" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0005" x="818" y="0" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0006" x="818" y="403" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0007" x="374" y="412" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0008" x="818" y="0" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0009" x="818" y="403" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0010" x="374" y="412" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0011" x="818" y="0" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0012" x="818" y="403" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+<SubTexture name="WOW0013" x="374" y="412" width="380" height="403" frameX="0" frameY="-1" frameWidth="380" frameHeight="404" />
+</TextureAtlas>
