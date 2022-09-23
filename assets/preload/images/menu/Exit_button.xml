@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Exit_button.png">
+<SubTexture name="non0000" x="0" y="0" width="254" height="47" frameX="0" frameY="0" frameWidth="254" frameHeight="48" />
+<SubTexture name="on0000" x="0" y="48" width="254" height="47" frameX="0" frameY="0" frameWidth="254" frameHeight="48" />
+<SubTexture name="on0001" x="0" y="96" width="254" height="47" frameX="0" frameY="0" frameWidth="254" frameHeight="48" />
+</TextureAtlas>
